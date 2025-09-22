@@ -1,5 +1,5 @@
 document.getElementById("show").addEventListener("click", () => {
-  fetch("data.json")
+  fetch("german_flashcards.json")
     .then(response => response.json())
     .then(data => {
       document.getElementById("output").textContent = JSON.stringify(data, null, 2);
