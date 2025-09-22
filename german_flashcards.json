@@ -108,7 +108,7 @@
             {"preposition": "über", "case": "dative/accusative", "translation": "over, above"},
             {"preposition": "unter", "case": "dative/accusative", "translation": "under, among"},
             {"preposition": "vor", "case": "dative/accusative", "translation": "in front of, before"},
-            {"preposition": "zwischen", "case": "dative/accusative", "translation": "between"},
+            {"preposition": "zwischen", "case": "dative/accusative", "translation": "between"}
           ]
         },
         {
@@ -125,7 +125,7 @@
             {"preposition": "diesseits", "case": "genitive", "translation": "on this side of"},
             {"preposition": "jenseits", "case": "genitive", "translation": "on the other side of"},            
             {"preposition": "beidseits", "case": "genitive", "translation": "on both sides of"},
-            {"preposition": "unweit", "case": "genitive", "translation": "not far from"},
+            {"preposition": "unweit", "case": "genitive", "translation": "not far from"}
           ]
         }
       ]
@@ -186,8 +186,8 @@
             {"conjunction": "sonst?", "type": "hauptsatz", "position": 1, "translation": "otherwise"},
             {"conjunction": "außerdem?", "type": "hauptsatz", "position": 1, "translation": "besides, in addition"}
           ]
-        },
-      ],
+        }
+      ]
     },
     {
       "category_name": "nouns",
